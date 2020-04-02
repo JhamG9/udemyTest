@@ -1,3 +1,3 @@
 <?php 
-    echo "Mensaje 1";
+    echo "Mensaje actualizado";
 ?>
