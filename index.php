@@ -1,3 +1,3 @@
 <?php 
-    echo "Mensaje actualizado";
+    echo "Mensaje nueva rama";
 ?>
